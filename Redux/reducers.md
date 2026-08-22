@@ -1,6 +1,8 @@
 Parent:: [[Redux (Classic)]]
-Imports:: [[actions]]
-
+Imports:: [[actions]] -> green
+Uses:: [[How to make mindmaps?]] -> yellow
+Next:: [[next for reducer]] 
+Previous:: [[previous for reducer]]
 ## What it does
 Handles state transitions in response to dispatched actions.
 

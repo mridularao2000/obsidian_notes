@@ -1,0 +1,19 @@
+How to make Excalibrain and Excalidraw work?
+- Excalibrain settings: how do I add a new field mapping?
+	- Should add Imports -> Relationship type: Friend (lateral connector rather than a tree branch)
+	- Should also add Uses -> type Friend (this should link my Project node to Redux without Redux being a child) -> this is imp
+- Structure here for example;
+	- Redux -> full file, basic understanding
+	- Redux classic -> syntax and understanding here (child of Redux)
+	- Redux RTK -> syntax and understanding with code (child of Redux) -> how do we define relation -> In each child file -> Parent:: [[Redux]]
+	- In Redux folder -> actions.md (it's a sibling of reducers.md?) -> Imports:: [[reducers]] 
+	- So in the end, we only need imports:: and parent::??
+		- Parent -> Structural hierarchy, Friend -> lateral dependency, Uses -> Cross-topic reference without disturbing each other's hierarchy (like projects -> Redux)
+		- In any note, type Imports:: and whatever file.
+		- e.g. in `reducers.md`, type Imports:: [[actions.md]]).
+		- Open the command palette (`Ctrl/Cmd+P`).
+		- Search for **"Add dataview field to ontology as..."**
+		- It'll show you options like _"as Parent," "as Child," "as Friend"_ — pick **Friend**.
+- How will we open Excalibrain -> Open Redux.md -> Ctrl + P -> Excalibrain: Open
+	- Why do we need Excalidraw? 
+		- We don't strictly need Excalidraw to make the mindmap. It's used by Excalibrain, we can use Excalidraw on it's own for drawing diagrams. Like we can use it here to draw final architecture of the application, apis built for the project, and embed it in project description.

@@ -1,0 +1,301 @@
+{
+  "compactView": false,
+  "compactingFactor": 1.5,
+  "minLinkLength": 18,
+  "excalibrainFilepath": "excalibrain.md",
+  "indexUpdateInterval": 60000,
+  "hierarchy": {
+    "exclusions": [
+      "excalidraw-border-color",
+      "excalidraw-css",
+      "excalidraw-default-mode",
+      "excalidraw-export-dark",
+      "excalidraw-export-pngscale",
+      "excalidraw-export-svgpadding",
+      "excalidraw-export-transparent",
+      "excalidraw-font",
+      "excalidraw-font-color",
+      "excalidraw-link-brackets",
+      "excalidraw-link-prefix",
+      "excalidraw-linkbutton-opacity",
+      "excalidraw-onload-script",
+      "excalidraw-plugin",
+      "excalidraw-url-prefix",
+      "kanban-plugin"
+    ],
+    "parents": [
+      "inception",
+      "North",
+      "origin",
+      "Parent",
+      "parent domain",
+      "Parents",
+      "source",
+      "u",
+      "up"
+    ],
+    "children": [
+      "Child",
+      "Children",
+      "contributes to",
+      "d",
+      "down",
+      "leads to",
+      "nurtures",
+      "South"
+    ],
+    "leftFriends": [
+      "advantages",
+      "alternatives",
+      "Friend",
+      "Friends",
+      "Imports",
+      "j",
+      "Jump",
+      "Jumps",
+      "pros",
+      "similar",
+      "supports"
+    ],
+    "rightFriends": [
+      "cons",
+      "disadvantages",
+      "missing",
+      "opposes",
+      "Uses"
+    ],
+    "previous": [
+      "Before",
+      "Prev",
+      "Previous",
+      "w",
+      "West"
+    ],
+    "next": [
+      "After",
+      "e",
+      "East",
+      "n",
+      "Next"
+    ],
+    "hidden": [
+      "hidden"
+    ]
+  },
+  "inferAllLinksAsFriends": false,
+  "inverseInfer": false,
+  "inverseArrowDirection": true,
+  "renderAlias": true,
+  "nodeTitleScript": "",
+  "backgroundColor": "#000000ff",
+  "excludeFilepaths": [],
+  "autoOpenCentralDocument": true,
+  "toggleEmbedTogglesAutoOpen": true,
+  "showInferredNodes": true,
+  "showAttachments": true,
+  "showURLNodes": true,
+  "showVirtualNodes": true,
+  "showFolderNodes": false,
+  "showTagNodes": false,
+  "showPageNodes": true,
+  "showNeighborCount": true,
+  "showFullTagName": false,
+  "maxItemCount": 30,
+  "renderSiblings": false,
+  "applyPowerFilter": false,
+  "baseNodeStyle": {
+    "prefix": "",
+    "backgroundColor": "#00000066",
+    "fillStyle": "solid",
+    "textColor": "#ffffffff",
+    "borderColor": "#ffffffe5",
+    "fontSize": 20,
+    "fontFamily": 3,
+    "maxLabelLength": 30,
+    "roughness": 0,
+    "strokeShaprness": "round",
+    "strokeWidth": 1,
+    "strokeStyle": "solid",
+    "padding": 10,
+    "gateRadius": 5,
+    "gateOffset": 15,
+    "gateStrokeColor": "#ffffffff",
+    "gateBackgroundColor": "#ffffffff",
+    "gateFillStyle": "solid"
+  },
+  "centralNodeStyle": {
+    "fontSize": 30,
+    "backgroundColor": "#2e2d2d7f",
+    "textColor": "#ffffffff"
+  },
+  "inferredNodeStyle": {
+    "backgroundColor": "#000005b3",
+    "textColor": "#95c7f3ff"
+  },
+  "urlNodeStyle": {
+    "prefix": "🌐 "
+  },
+  "virtualNodeStyle": {
+    "backgroundColor": "#ff000066",
+    "fillStyle": "hachure",
+    "textColor": "#ffffffff"
+  },
+  "siblingNodeStyle": {
+    "fontSize": 15
+  },
+  "attachmentNodeStyle": {
+    "prefix": "📎 "
+  },
+  "folderNodeStyle": {
+    "prefix": "📂 ",
+    "strokeShaprness": "sharp",
+    "borderColor": "#ffd700ff",
+    "textColor": "#ffd700ff"
+  },
+  "tagNodeStyle": {
+    "prefix": "#",
+    "strokeShaprness": "sharp",
+    "borderColor": "#4682b4ff",
+    "textColor": "#4682b4ff"
+  },
+  "tagNodeStyles": {},
+  "tagStyleList": [],
+  "primaryTagField": "Note type",
+  "primaryTagFieldLowerCase": "note-type",
+  "displayAllStylePrefixes": true,
+  "baseLinkStyle": {
+    "strokeColor": "#696969FF",
+    "strokeWidth": 1,
+    "strokeStyle": "solid",
+    "roughness": 0,
+    "startArrowHead": "none",
+    "endArrowHead": "none",
+    "showLabel": false,
+    "fontSize": 10,
+    "fontFamily": 3,
+    "textColor": "#ffffffff"
+  },
+  "inferredLinkStyle": {
+    "strokeStyle": "dashed"
+  },
+  "folderLinkStyle": {
+    "strokeColor": "#ffd700ff"
+  },
+  "tagLinkStyle": {
+    "strokeColor": "#4682b4ff"
+  },
+  "hierarchyLinkStyles": {
+    "hidden": {},
+    "inception": {},
+    "North": {},
+    "origin": {},
+    "Parent": {},
+    "parent domain": {},
+    "Parents": {},
+    "source": {},
+    "u": {},
+    "up": {},
+    "Child": {},
+    "Children": {},
+    "contributes to": {},
+    "d": {},
+    "down": {},
+    "leads to": {},
+    "nurtures": {},
+    "South": {},
+    "advantages": {},
+    "alternatives": {},
+    "Friend": {},
+    "Friends": {},
+    "j": {},
+    "Jump": {},
+    "Jumps": {},
+    "pros": {},
+    "similar": {},
+    "supports": {},
+    "cons": {},
+    "disadvantages": {},
+    "missing": {},
+    "opposes": {},
+    "Before": {
+      "strokeColor": "#eb0000ff",
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "endArrowHead": "arrow"
+    },
+    "Prev": {},
+    "Previous": {
+      "strokeColor": "#e22222ff",
+      "strokeWidth": 1,
+      "roughness": 0,
+      "strokeStyle": "solid",
+      "endArrowHead": "none",
+      "showLabel": false,
+      "textColor": "#ffffffff",
+      "fontSize": 18,
+      "fontFamily": 3
+    },
+    "w": {},
+    "West": {},
+    "After": {},
+    "e": {},
+    "East": {},
+    "n": {},
+    "Next": {
+      "strokeColor": "#0f2fccff",
+      "strokeWidth": 1,
+      "roughness": 0,
+      "strokeStyle": "solid",
+      "endArrowHead": "none",
+      "showLabel": false,
+      "textColor": "#ffffffff"
+    },
+    "Imports": {
+      "strokeColor": "#0ced45ff",
+      "roughness": 0,
+      "strokeStyle": "solid",
+      "endArrowHead": "none",
+      "showLabel": false,
+      "textColor": "#ffffffff",
+      "strokeWidth": 1
+    },
+    "Uses": {
+      "strokeColor": "#d2cb0fff",
+      "strokeWidth": 1,
+      "roughness": 0,
+      "endArrowHead": "arrow",
+      "strokeStyle": "solid",
+      "showLabel": false,
+      "textColor": "#ffffffff"
+    }
+  },
+  "navigationHistory": [
+    "Redux/Redux (RTK).md",
+    "Redux/Redux (Classic).md",
+    "Redux/actions.md",
+    "Untitled.md",
+    "Redux/Redux.md",
+    "Redux/Untitled.md",
+    "Redux/previous for reducer.md",
+    "New file whatever.md",
+    "Redux/reducers.md",
+    "How to make mindmaps?.md"
+  ],
+  "allowOntologySuggester": true,
+  "ontologySuggesterParentTrigger": "::p",
+  "ontologySuggesterChildTrigger": "::c",
+  "ontologySuggesterLeftFriendTrigger": "::l",
+  "ontologySuggesterRightFriendTrigger": "::r",
+  "ontologySuggesterPreviousTrigger": "::e",
+  "ontologySuggesterNextTrigger": "::n",
+  "ontologySuggesterTrigger": ":::",
+  "ontologySuggesterMidSentenceTrigger": "(",
+  "boldFields": false,
+  "allowAutozoom": true,
+  "maxZoom": 1,
+  "allowAutofocuOnSearch": true,
+  "defaultAlwaysOnTop": false,
+  "embedCentralNode": false,
+  "centerEmbedWidth": 550,
+  "centerEmbedHeight": 700
+}
